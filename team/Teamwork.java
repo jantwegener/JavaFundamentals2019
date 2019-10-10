@@ -9,7 +9,7 @@ public class Teamwork {
     public void methodGiulia() {
     }
     
-    putlic void methodHasret() {
+    public void methodHasret() {
     }
     
     public void methodJan() {
