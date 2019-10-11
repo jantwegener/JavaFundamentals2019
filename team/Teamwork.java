@@ -1,8 +1,15 @@
 public class Teamwork {
     
     public void methodTeam() {
+
+	System.out.println("Fridaay! Time to Whizlaaab -___- :'D ...");
 	System.out.println("Hasret was here");
+
 	System.out.println("Black pearl was here");
+
+	System.out.println("This is important!");
+
+
     }
     
     public void methodDennis() {
