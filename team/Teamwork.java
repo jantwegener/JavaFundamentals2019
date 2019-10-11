@@ -7,6 +7,8 @@ public class Teamwork {
     }
     
     public void methodGiulia() {
+	int myInt = 0;
+	System.out.println("MyInt is " + i);
     }
     
     public void methodHasret() {
