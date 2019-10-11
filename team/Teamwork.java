@@ -2,6 +2,7 @@ public class Teamwork {
     
     public void methodTeam() {
 	System.out.println("Hasret was here");
+	System.out.println("This is important!");
     }
     
     public void methodDennis() {
