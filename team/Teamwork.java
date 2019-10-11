@@ -3,7 +3,7 @@ public class Teamwork {
     public void methodTeam() {
 
 	System.out.println("Dies ist ein ein sysout um Konflikte zu testen. Aus dem Weg!");
-	System.out.println("Fridaay! Time to Whizlaaab -___- :'D ...");
+	System.out.println("Fridaay! Time to Whizlaaab");
 	System.out.println("Hasret was here");
 
 	System.out.println("Black pearl was here");
