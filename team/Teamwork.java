@@ -1,6 +1,7 @@
 public class Teamwork {
     
     public void methodTeam() {
+	System.out.println("Fridaay! Time to Whizlaaab -___- :'D ...");
     }
     
     public void methodDennis() {
