@@ -22,7 +22,8 @@ public class Teamwork {
     public void methodJohann() {
     }
     
-    public void methodRongbiao() {
+    public void methodRongbiao(int amount) {
+	System.out.println("Do " + int +"situps!");
     }
     
 }
