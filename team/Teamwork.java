@@ -20,6 +20,7 @@ public class Teamwork {
     }
 
     public void methodJohann() {
+		System.out.println("Jack Sparrow was here");
     }
     
     public void methodRongbiao() {
