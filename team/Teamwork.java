@@ -3,6 +3,9 @@ public class Teamwork {
     public void methodTeam() {
 
 	System.out.println("Dies ist ein ein sysout um Konflikte zu testen. Aus dem Weg!");
+
+	System.out.println("Hasret was here");
+	System.out.println("This is important!");
     }
     
     public void methodDennis() {
@@ -17,6 +20,7 @@ public class Teamwork {
     }
     
     public void methodHasret() {
+	System.out.println("Hi, this is Hasret!");
     }
     
     public void methodJan() {
@@ -24,12 +28,15 @@ public class Teamwork {
     }
     
     public void methodJannic() {
+		System.out.println("I need some more _co_ffee + _de_veloper :-)");
     }
 
     public void methodJohann() {
+		System.out.println("Jack Sparrow was here");
     }
     
-    public void methodRongbiao() {
+    public void methodRongbiao(int amount) {
+	System.out.println("Do " + int +"situps!");
     }
     
 }
