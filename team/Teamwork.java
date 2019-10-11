@@ -15,6 +15,7 @@ public class Teamwork {
     }
     
     public void methodHasret() {
+	System.out.println("Hi, this is Hasret!");
     }
     
     public void methodJan() {
