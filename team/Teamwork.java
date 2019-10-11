@@ -1,6 +1,7 @@
 public class Teamwork {
     
     public void methodTeam() {
+	System.out.println("This is important!");
     }
     
     public void methodDennis() {
