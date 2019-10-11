@@ -1,6 +1,7 @@
 public class Teamwork {
     
     public void methodTeam() {
+	System.out.println("Hasret was here");
     }
     
     public void methodDennis() {
