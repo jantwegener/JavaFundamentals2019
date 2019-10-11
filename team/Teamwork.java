@@ -6,10 +6,12 @@ public class Teamwork {
     public void methodDennis() {
 	System.out.println("Warum können Seeräuber keine Kreisflächen berechnen?");
 
-	System.out.println("Weil sie Pi raten.")
+	System.out.println("Weil sie Pi raten.");
     }
     
     public void methodGiulia() {
+	int myInt = 0;
+	System.out.println("MyInt is " + i);
     }
     
     public void methodHasret() {
