@@ -1,6 +1,8 @@
 public class Teamwork {
     
     public void methodTeam() {
+
+	System.out.println("Dies ist ein ein sysout um Konflikte zu testen. Aus dem Weg!");
     }
     
     public void methodDennis() {
